@@ -13,3 +13,5 @@ https://www.youtube.com/watch?v=204ewU7NRO0&t=908s
 ## Layout
 
 ![Layout Mobile](https://github.com/anna104016/Vercel-Clone-Homepage/blob/main/Vercel-homepage/assets/clone.PNG)
+
+![Layout Mobile](https://github.com/anna104016/Vercel-Clone-Homepage/blob/main/Vercel-homepage/assets/Clone%20Vercel.gif)
